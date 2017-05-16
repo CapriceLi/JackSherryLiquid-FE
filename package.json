@@ -1,0 +1,22 @@
+{
+  "name": "jacksherryliquid-fe",
+  "version": "1.0.0",
+  "description": "front end of jacksherryliquid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapriceLi/JackSherryLiquid-FE.git"
+  },
+  "author": "Caprice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CapriceLi/JackSherryLiquid-FE/issues"
+  },
+  "homepage": "https://github.com/CapriceLi/JackSherryLiquid-FE#readme",
+  "dependencies":{
+    "angular":"1.6.4"
+  }
+}
